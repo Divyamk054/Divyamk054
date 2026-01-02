@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Teacher Login</title>
+</head>
+<body>
+
+<h2>Teacher Login</h2>
+
+<input type="email" id="email" placeholder="Email"><br><br>
+<input type="password" id="password" placeholder="Password"><br><br>
+
+<button id="loginBtn"></button>Login</button>
+
+<script type="module">
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/10.7.1/firebase-app.js";
+  import { getAuth, signInWithEmailAndPassword }
+    from "https://www.gstatic.com/firebasejs/10.7.1/firebase-auth.js";
+
+  const firebaseConfig = {
+  apiKey: "AIzaSyAlM9pWFYWV9rBdtZJyQUiiz9T2GGy-_vA",
+  authDomain: "fraud-proof-attendance.firebaseapp.com",
+  projectId: "fraud-proof-attendance",
+  storageBucket: "fraud-proof-attendance.firebasestorage.app",
+  messagingSenderId: "742138902666",
+  appId: "1:742138902666:web:ec2a6a7fe08d6389db9573",
+  measurementId: "G-BSV4XS109J"
+};
+
+  const app = initializeApp(firebaseConfig);
+  const auth = getAuth(app);
+
+  // ✅ attach click event properly
+  document.getElementById("loginBtn").addEventListener("click", () => {
+    const email = document.getElementById("email").value;
+    const password = document.getElementById("password").value;
+
+    signInWithEmailAndPassword(auth, email, password)
+      .then(() => {
+        alert("Login Successful");
+      })
+      .catch(error => {
+        alert(error.message);
+      });
+  });
+</script>
+
+
+
+</body>
+</html>
