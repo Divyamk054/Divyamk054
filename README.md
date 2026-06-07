@@ -1,4 +1,3 @@
- Hi 👋, I'm Divya M K  
 
 <p align="center">
   <img src="./DIVYA.M.K.png" width="100%" alt="Divya Banner">
@@ -15,14 +14,31 @@ Full Stack Developer crafting intelligent web applications and AI-powered soluti
     <img src="https://img.shields.io/github/followers/Divyamk054?label=Followers&style=social">
   </a>
 </p>
-🎓 **B.Tech CSE (Core) Student | 💻 Aspiring Software Engineer  
-📍 Bengaluru, India  
+## 👩‍💻 About Me
 
+<img align="right" alt="Girl Developer" width="350" src="./code-girl.png">
+🔥 Passionate Full Stack Developer
 
- 👩‍💻 About Me  
-I am a first-year Computer Science Engineering student with a strong interest in software development, web technologies, and problem-solving. I enjoy building projects, participating in hackathons, and learning new technologies through hands-on experience.  
-I am actively seeking internship opportunities where I can apply my skills, learn from industry professionals, and grow into a full-time engineering role.
+🤖 AI & Machine Learning Enthusiast
 
+💻 Building intelligent web applications and software solutions
+
+🚀 Actively participating in hackathons and real-world projects
+
+📚 Constantly learning modern technologies and development practices
+
+🎯 Seeking Software Engineering and Full Stack Development Internship Opportunities
+
+🌱 Focused on Web Development, Artificial Intelligence, Cloud Computing, and System Design
+
+📍 Bengaluru, India
+
+## 🎓 Education
+
+| 🏛 Institute | 📚 Degree | 📍 Location |
+|-------------|-----------|-------------|
+| HKS International School | Secondary Education | Bengaluru |
+| Presidency university  | B.E Computer Science Engineering (Core) | Bengaluru |
 
 🛠️ Technical Skills  
 - Programming Languages: Python 
