@@ -17,7 +17,7 @@ Full Stack Developer crafting intelligent web applications and AI-powered soluti
 
 👩‍💻 About Me
 
-<img align="right" width="350" src="https://raw.githubusercontent.com/Divyamk054/Divyamk054/main/girl-developer.png" alt="Girl Developer">
+<img align="right" width="350" src="https://raw.githubusercontent.com/Divyamk054/Divyamk054/refs/heads/main/Girl%20developer.png" alt="Girl Developer">
 🔥 Passionate Full Stack Developer
 
 🤖 AI & Machine Learning Enthusiast
