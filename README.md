@@ -14,7 +14,8 @@ Full Stack Developer crafting intelligent web applications and AI-powered soluti
     <img src="https://img.shields.io/github/followers/Divyamk054?label=Followers&style=social">
   </a>
 </p>
-## 👩‍💻 About Me
+
+👩‍💻 About Me
 
 <img align="right" width="320" src="https://raw.githubusercontent.com/Divyamk054/Divyamk054/main/girl%20developer.jpg" alt="Girl Developer">
 🔥 Passionate Full Stack Developer
@@ -32,8 +33,8 @@ Full Stack Developer crafting intelligent web applications and AI-powered soluti
 🌱 Focused on Web Development, Artificial Intelligence, Cloud Computing, and System Design
 
 📍 Bengaluru, India
-
-## 🎓 Education
+_____________________________________________________________________________________________________________________________________________
+ 🎓 Education
 
 | 🏛 Institute | 📚 Degree | 📍 Location |
 |-------------|-----------|-------------|
