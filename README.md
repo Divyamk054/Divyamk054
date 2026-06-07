@@ -74,34 +74,42 @@ ________________________________________________________________________________
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
 ___________________________________________________________________________________________________________________________________________
- 🚀 Projects  
-                               DIVYA M.K
-                                   │
-        ┌──────────────────────────┼──────────────────────────┐
-        │                          │                          │
-        │                          │                          │
-   🤖 Projects               🏆 Achievements          📚 Learning
-        │                          │                          │
-        │                          │                          │
- ┌──────┼──────┐          ┌────────┼────────┐        ┌────────┼────────┐
- │      │      │          │        │        │        │        │        │
- ⚙️     🔌     💻         🏅       🥇      🛠️       📊       🐍      🤖
-Servo  Hardware  C      SIH    Anveshana  Arduino   Kaggle  Python    ML
-Motor  Integration  Programming          Winner    Learning Practice
+ 🚀 Projects  ```text
+🚀 DIVYA M.K
+│
+├── 💻 Full Stack Development
+│   ├── 🌐 HTML5
+│   ├── 🎨 CSS3
+│   ├── ⚡ JavaScript
+│   ├── ⚛️ React.js
+│   ├── 🟢 Node.js
+│   ├── 🚂 Express.js
+│   └── 🍃 MongoDB
+│
+├── 🤖 Engineering Projects
+│   ├── ⚙️ Servo Motor Control
+│   ├── 🔌 Hardware Integration
+│   ├── 🎯 Precision Control
+│   └── 🏗️ IoT & Robotics
+│
+├── 📚 Learning Journey
+│   ├── 🐍 Python
+│   ├── 📊 Kaggle
+│   ├── 🧠 Machine Learning
+│   └── 📈 Data Analytics
+│
+├── 🏆 Achievements
+│   ├── 🏅 Smart India Hackathon
+│   ├── 🥇 Anveshana Top 50/450+
+│   └── 🛠️ Arduino Project Winner
+│
+└── 🎯 Career Goals
+    ├── 🤖 Artificial Intelligence
+    ├── ☁️ Cloud Computing
+    ├── 💼 Software Engineering
+    └── 🚀 Open Source Development
+```
 
- │                   │                    │
- │                   │                    │
- 🎯                  ⭐                    📈
- Precision          Top 50              Data Analysis
- Control           out of 450+          & Problem Solving
-
- │
- │
- 🏗️
- IoT & Robotics
- Projects
-
-give me in a professional creative 
 ___________________________________________________________________________________________________________________________________________
 
  📜 Certifications  
