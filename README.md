@@ -1,8 +1,6 @@
-
 <p align="center">
-  <img src="./DIVYA.M.K.png" width="100%" alt="Divya Banner">
+  <img src="https://raw.githubusercontent.com/Divyamk054/Divyamk054/main/DIVYA.M.K.png" width="100%" alt="Divya Banner">
 </p>
-
 <h1 align="center">DIVYA M.K</h1>
 
 <h3 align="center">
