@@ -34,8 +34,10 @@ Full Stack Developer crafting intelligent web applications and AI-powered soluti
 
 📍 Bengaluru, India
 _____________________________________________________________________________________________________________________________________________
+ 
+ 
+ 
  🎓 Education
-
 | 🏛 Institute | 📚 Degree | 📍 Location |
 |-------------|-----------|-------------|
 | HKS International School | Secondary Education | Bengaluru |
