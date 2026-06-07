@@ -105,10 +105,9 @@ Motor  Integration  Programming          Winner    Learning Practice
 ```
 
 ___________________________________________________________________________________________________________________________________________
-## 📈 GitHub Stats
+## 📈 GitHub Status
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyamk054&theme=github-compact" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyamk054&theme=tokyo-night" />
 
  📫 Connect With Me  
 - Email: mkdivya054@gmail.com  
