@@ -1,5 +1,20 @@
  Hi 👋, I'm Divya M K  
 
+<p align="center">
+  <img src="./DIVYA.M.K.png" width="100%" alt="Divya Banner">
+</p>
+
+<h1 align="center">DIVYA M.K</h1>
+
+<h3 align="center">
+Full Stack Developer crafting intelligent web applications and AI-powered solutions.
+</h3>
+
+<p align="center">
+  <a href="https://github.com/Divyamk054">
+    <img src="https://img.shields.io/github/followers/Divyamk054?label=Followers&style=social">
+  </a>
+</p>
 🎓 **B.Tech CSE (Core) Student | 💻 Aspiring Software Engineer  
 📍 Bengaluru, India  
 
