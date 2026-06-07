@@ -73,28 +73,79 @@ ________________________________________________________________________________
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
-_____________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________________
  🚀 Projects  
-🤖 Arduino-Based Projects  
-- Developed Arduino projects involving servo motor control and hardware integration  
-- Focused on precision control and efficient C-based programming  
 
- 📊 Kaggle Learning & Practice  
-- Completed Kaggle learning modules  
-- Practiced Python for data handling and problem-solving  
+ DIVYA M.K
+│
+├── 🤖 Projects
+│   │
+│   ├── ⚙️ Arduino-Based Systems
+│   │   ├── 🔄 Servo Motor Control
+│   │   ├── 🔌 Hardware Integration
+│   │   ├── 💻 Embedded C Programming
+│   │   ├── 🎯 Precision Control
+│   │   └── 🏗️ IoT & Automation
+│   │
+│   ├── 📚 Smart Attendance System
+│   │   ├── 👤 Face Recognition
+│   │   ├── 📷 Computer Vision
+│   │   ├── 🗃️ Attendance Database
+│   │   └── 📊 Analytics Dashboard
+│   │
+│   ├── 🦺 AI Construction Safety Platform
+│   │   ├── 🎥 Real-Time Video Monitoring
+│   │   ├── 🧠 AI Object Detection
+│   │   ├── 🚨 Safety Alerts
+│   │   └── 📑 Automated Reports
+│   │
+│   └── 🤖 NVIDIA AI GPU System
+│       ├── ⚡ GPU Computing
+│       ├── 🧠 AI Model Execution
+│       ├── 📊 Performance Analysis
+│       └── 🚀 High-Speed Processing
+│
+├── 📊 Learning Journey
+│   │
+│   ├── 🐍 Python Programming
+│   ├── 📈 Data Analytics
+│   ├── 🧠 Problem Solving
+│   ├── 🤖 Machine Learning
+│   └── 📚 Kaggle Learning Modules
+│
+├── 🏆 Hackathons & Achievements
+│   │
+│   ├── 🏅 Smart India Hackathon
+│   │   ├── 🏫 Presidency University
+│   │   ├── 💡 Innovation Challenge
+│   │   └── 🤝 Team Collaboration
+│   │
+│   ├── 🥇 Anveshana Hackathon
+│   │   ├── ⭐ Top 50 Projects
+│   │   ├── 🚀 Selected from 450+
+│   │   └── 💡 State-Level Recognition
+│   │
+│   └── 🛠️ Arduino Innovation Award
+│       ├── 🏆 Project Winner
+│       ├── ⚙️ Technical Excellence
+│       └── 🎯 Practical Implementation
+│
+└── 🌟 Technical Expertise
+    │
+    ├── 💻 Full Stack Development
+    ├── ⚛️ React.js
+    ├── 🟢 Node.js
+    ├── 🚂 Express.js
+    ├── 🍃 MongoDB
+    ├── 🐍 Python
+    ├── ☕ Java
+    ├── 🤖 Artificial Intelligence
+    ├── ☁️ Cloud Computing
+    ├── 🔐 Software Engineering
+    ├── 📚 Data Structures & Algorithms
+    └── 🚀 Open Source Development
 
-
-🏆 Hackathons & Achievements  
-- 🏅 Smart India Hackathon (Internal – Software Edition)
-  - Participated at Presidency University, Bengaluru  
-  - Gained experience in problem-solving, teamwork, and innovation  
-
-- 🥇 Anveshana – State Level Hackathon
-  - Selected among 450+ projects
-  - Shortlisted in Top 50 projects 
-
-- 🛠️ Arduino Project Winner*
-  - Recognized for innovation and practical implementation  
+___________________________________________________________________________________________________________________________________________
 
  📜 Certifications  
 - Kaggle Python Certification  
