@@ -42,13 +42,38 @@ ________________________________________________________________________________
 | Presidency university  | B.E Computer Science Engineering (Core) | Bengaluru |
 
 _____________________________________________________________________________________________________________________________________________
-🛠️ Technical Skills  
-- Programming Languages: Python 
-- Web Technologies: HTML, CSS, PHP(Basics)  
-- Hardware & IoT:Arduino, Servo Motors  
-- Tools & Platforms: Git, GitHub, Kaggle  
-- Core Concepts: OOP, Data Structures (Basics), Problem Solving  
 
+🛠️ Techincal Skills
+<h3 align="center">🎨 Frontend</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+<h3 align="center">⚙️ Backend</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+</p>
+
+<h3 align="center">🗄️ Database</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+<h3 align="center">💻 Languages</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,javascript" />
+</p>
+
+<h3 align="center">🔧 Tools</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
+_____________________________________________________________________________________________________________________________________________
  🚀 Projects  
 🤖 Arduino-Based Projects  
 - Developed Arduino projects involving servo motor control and hardware integration  
