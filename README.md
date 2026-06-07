@@ -75,53 +75,33 @@ ________________________________________________________________________________
 </p>
 ___________________________________________________________________________________________________________________________________________
  🚀 Projects  
+                               DIVYA M.K
+                                   │
+        ┌──────────────────────────┼──────────────────────────┐
+        │                          │                          │
+        │                          │                          │
+   🤖 Projects               🏆 Achievements          📚 Learning
+        │                          │                          │
+        │                          │                          │
+ ┌──────┼──────┐          ┌────────┼────────┐        ┌────────┼────────┐
+ │      │      │          │        │        │        │        │        │
+ ⚙️     🔌     💻         🏅       🥇      🛠️       📊       🐍      🤖
+Servo  Hardware  C      SIH    Anveshana  Arduino   Kaggle  Python    ML
+Motor  Integration  Programming          Winner    Learning Practice
 
-                                    DIVYA M.K
-                         Full Stack Developer | AI Enthusiast
-                                          │
-        ┌─────────────────────────────────┼─────────────────────────────────┐
-        │                                 │                                 │
-        │                                 │                                 │
-   💼 PROJECTS                      🏆 ACHIEVEMENTS                  📚 LEARNING
-        │                                 │                                 │
-        │                                 │                                 │
- ┌──────┼──────────┐            ┌─────────┼─────────┐             ┌─────────┼─────────┐
- │      │          │            │         │         │             │         │         │
- 🤖      🦺         📚           🏅        🥇        🛠️           📊        🐍        🤖
-Arduino  AI Safety  Smart       SIH    Anveshana   Arduino      Kaggle    Python      ML
-Systems  Platform   Attendance            Top 50    Winner      Learning  Practice  Fundamentals
- │         │          │
- │         │          │
- ⚙️        🎥         👤
- Servo     Video      Face
- Control   Detection  Recognition
- │         │          │
- 🔌        🚨         📈
- Hardware  Alerts     Analytics
- │         │          │
- 🎯        🧠         🗃️
- Precision AI         Database
- Control   Monitoring Management
+ │                   │                    │
+ │                   │                    │
+ 🎯                  ⭐                    📈
+ Precision          Top 50              Data Analysis
+ Control           out of 450+          & Problem Solving
 
-──────────────────────────────────────────────────────────────────────────────
+ │
+ │
+ 🏗️
+ IoT & Robotics
+ Projects
 
-                              🌟 TECHNICAL EXPERTISE
-
-    💻 Frontend      → HTML5 • CSS3 • JavaScript • React.js
-
-    ⚙️ Backend       → Node.js • Express.js • PHP
-
-    🗄️ Database      → MongoDB
-
-    🔧 Tools         → Git • GitHub • Postman • VS Code
-
-    ☕ Languages     → Java • Python • JavaScript
-
-    📚 Core CS       → OOP • DSA • DBMS • Problem Solving
-
-    🤖 Interests     → AI • Machine Learning • Cloud Computing
-```
-
+give me in a professional creative 
 ___________________________________________________________________________________________________________________________________________
 
  📜 Certifications  
