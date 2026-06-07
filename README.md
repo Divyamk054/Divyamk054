@@ -43,6 +43,7 @@ ________________________________________________________________________________
 | HKS International School | Secondary Education | Bengaluru |
 | Presidency university  | B.E Computer Science Engineering (Core) | Bengaluru |
 
+_____________________________________________________________________________________________________________________________________________
 🛠️ Technical Skills  
 - Programming Languages: Python 
 - Web Technologies: HTML, CSS, PHP(Basics)  
