@@ -76,74 +76,34 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________________
  🚀 Projects  
 
- DIVYA M.K
-│
-├── 🤖 Projects
-│   │
-│   ├── ⚙️ Arduino-Based Systems
-│   │   ├── 🔄 Servo Motor Control
-│   │   ├── 🔌 Hardware Integration
-│   │   ├── 💻 Embedded C Programming
-│   │   ├── 🎯 Precision Control
-│   │   └── 🏗️ IoT & Automation
-│   │
-│   ├── 📚 Smart Attendance System
-│   │   ├── 👤 Face Recognition
-│   │   ├── 📷 Computer Vision
-│   │   ├── 🗃️ Attendance Database
-│   │   └── 📊 Analytics Dashboard
-│   │
-│   ├── 🦺 AI Construction Safety Platform
-│   │   ├── 🎥 Real-Time Video Monitoring
-│   │   ├── 🧠 AI Object Detection
-│   │   ├── 🚨 Safety Alerts
-│   │   └── 📑 Automated Reports
-│   │
-│   └── 🤖 NVIDIA AI GPU System
-│       ├── ⚡ GPU Computing
-│       ├── 🧠 AI Model Execution
-│       ├── 📊 Performance Analysis
-│       └── 🚀 High-Speed Processing
-│
-├── 📊 Learning Journey
-│   │
-│   ├── 🐍 Python Programming
-│   ├── 📈 Data Analytics
-│   ├── 🧠 Problem Solving
-│   ├── 🤖 Machine Learning
-│   └── 📚 Kaggle Learning Modules
-│
-├── 🏆 Hackathons & Achievements
-│   │
-│   ├── 🏅 Smart India Hackathon
-│   │   ├── 🏫 Presidency University
-│   │   ├── 💡 Innovation Challenge
-│   │   └── 🤝 Team Collaboration
-│   │
-│   ├── 🥇 Anveshana Hackathon
-│   │   ├── ⭐ Top 50 Projects
-│   │   ├── 🚀 Selected from 450+
-│   │   └── 💡 State-Level Recognition
-│   │
-│   └── 🛠️ Arduino Innovation Award
-│       ├── 🏆 Project Winner
-│       ├── ⚙️ Technical Excellence
-│       └── 🎯 Practical Implementation
-│
-└── 🌟 Technical Expertise
-    │
-    ├── 💻 Full Stack Development
-    ├── ⚛️ React.js
-    ├── 🟢 Node.js
-    ├── 🚂 Express.js
-    ├── 🍃 MongoDB
-    ├── 🐍 Python
-    ├── ☕ Java
-    ├── 🤖 Artificial Intelligence
-    ├── ☁️ Cloud Computing
-    ├── 🔐 Software Engineering
-    ├── 📚 Data Structures & Algorithms
-    └── 🚀 Open Source Development
+# 🧠 Projects & Achievements Mind Map
+
+```text
+                           🚀 DIVYA M.K
+                                   │
+        ┌──────────────────────────┼──────────────────────────┐
+        │                          │                          │
+        │                          │                          │
+   🤖 Projects               🏆 Achievements          📚 Learning
+        │                          │                          │
+        │                          │                          │
+ ┌──────┼──────┐          ┌────────┼────────┐        ┌────────┼────────┐
+ │      │      │          │        │        │        │        │        │
+ ⚙️     🔌     💻         🏅       🥇      🛠️       📊       🐍      🤖
+Servo  Hardware  C      SIH    Anveshana  Arduino   Kaggle  Python    ML
+Motor  Integration  Programming          Winner    Learning Practice
+
+ │                   │                    │
+ │                   │                    │
+ 🎯                  ⭐                    📈
+ Precision          Top 50              Data Analysis
+ Control           out of 450+          & Problem Solving
+
+ │
+ │
+ 🏗️
+ IoT & Robotics
+ Projects
 
 ___________________________________________________________________________________________________________________________________________
 
