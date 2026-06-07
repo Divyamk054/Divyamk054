@@ -16,7 +16,7 @@ Full Stack Developer crafting intelligent web applications and AI-powered soluti
 </p>
 ## 👩‍💻 About Me
 
-<img align="right" width="350" src="./code-girl.png" alt="Girl Developer">
+<img align="right" width="350" src="./girl-developer.jpg" alt="Girl developer">
 🔥 Passionate Full Stack Developer
 
 🤖 AI & Machine Learning Enthusiast
