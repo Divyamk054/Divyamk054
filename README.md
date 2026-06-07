@@ -107,13 +107,7 @@ Motor  Integration  Programming          Winner    Learning Practice
 ___________________________________________________________________________________________________________________________________________
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Divyamk054&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyamk054&layout=compact&theme=tokyonight" />
-</p>
- 📜 Certifications  
-- Kaggle Python Certification  
-- Hackathon Participation Certificates  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyamk054&theme=github-compact" />
 
 
  📫 Connect With Me  
