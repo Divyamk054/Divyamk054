@@ -44,6 +44,11 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________________________________
 
 🛠️ Techincal Skills
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,php,java,python,git,github,vscode,postman" />
+</p>
 <h3 align="center">🎨 Frontend</h3>
 
 <p align="center">
