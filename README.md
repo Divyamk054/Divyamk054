@@ -1,6 +1,6 @@
 <p align="center">
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Divyamk054/Divyamk054/main/banner.png" width="100%">
+  <img src="https://raw.githubusercontent.com/Divyamk054/Divyamk054/main/banner.png" width="100%" alt="Divya Banner">
 </p>
 <div align="center">
  
