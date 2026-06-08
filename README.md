@@ -14,9 +14,9 @@
 
 ---
 
-### Building Intelligent Web Applications & AI-Powered Solutions
+### Designing, Developing & Deploying Modern Web Applications
 
-<h2>⚡ Futur</h2>
+<h2>🌟 Explore</h2>
 
 🌐 <a href="https://www.linkedin.com/in/divyamurthy0124/">LinkedIn</a>
 •
