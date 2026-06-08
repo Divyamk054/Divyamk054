@@ -116,10 +116,10 @@ ________________________________________________________________________________
 </p>
 
 ____________________________________________________________________________________________________________________________________________
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyamk054&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyamk054&bg_color=0d1117&color=58a6ff&line=38bdae&point=f8d847&area=true&hide_border=true" />
 </p>
 ____________________________________________________________________________________________________________________________________________
 
