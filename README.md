@@ -123,4 +123,4 @@ ________________________________________________________________________________
 - LinkedIn: https://www.linkedin.com/in/divyamurthy0124/
 
 
-⭐ Feel free to explore my repositories and connect with me. I'm always open to learning and collaboration!
+             ⭐ Feel free to explore my repositories and connect with me. I'm always open to learning and collaboration!
