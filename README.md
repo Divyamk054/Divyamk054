@@ -9,9 +9,7 @@
 <img src="https://img.shields.io/badge/HACKATHON_BUILDER-00E5FF?style=for-the-badge" />
 
 <br><br>
-
 # 👩‍💻 DIVYA M.K
-
 ---
 
 ### Designing, Developing & Deploying Modern Web Applications
