@@ -8,7 +8,6 @@
 <img src="https://img.shields.io/badge/AI_ENTHUSIAST-00E5FF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/HACKATHON_BUILDER-00E5FF?style=for-the-badge" />
 
-<br><br>
 # 👩‍💻 DIVYA M.K
 ---
 
