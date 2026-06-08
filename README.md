@@ -1,7 +1,34 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Divyamk054/Divyamk054/main/DIVYA.M.K.png" width="100%" alt="Divya Banner">
 </p>
+<div align="center">
 
+<img src="https://img.shields.io/badge/FULL_STACK_DEVELOPER-00E5FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MERN_STACK-00E5FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI_ENTHUSIAST-00E5FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HACKATHON_BUILDER-00E5FF?style=for-the-badge" />
+
+<br><br>
+
+# 👩‍💻 DIVYA M.K
+
+---
+
+### Building Intelligent Web Applications & AI-Powered Solutions
+
+<h2>⚡ Futur</h2>
+
+🌐 <a href="https://www.linkedin.com/in/divyamurthy0124/">LinkedIn</a>
+•
+🐙 <a href="https://github.com/Divyamk054">GitHub</a>
+•
+📊 <a href="https://www.kaggle.com/divyamk0124">Kaggle</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Divyamk054&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge" />
+
+</div>
 
 <h3 align="center">
 Full Stack Developer crafting intelligent web applications and AI-powered solutions.
