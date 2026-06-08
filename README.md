@@ -36,12 +36,6 @@
 <img src="https://komarev.com/ghpvc/?username=Divyamk054&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge" />
 </div>
 
-<p align="center">
-  <a href="https://github.com/Divyamk054">
-    <img src="https://img.shields.io/github/followers/Divyamk054?label=Followers&style=social">
-  </a>
-</p>
-
 👩‍💻 About Me
 
 <img align="right" width="350" src="https://raw.githubusercontent.com/Divyamk054/Divyamk054/refs/heads/main/Girl%20developer.png" alt="Girl Developer">
