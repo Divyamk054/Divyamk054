@@ -30,9 +30,6 @@
 
 </div>
 
-<h3 align="center">
-Full Stack Developer crafting intelligent web applications and AI-powered solutions.
-</h3>
 
 <p align="center">
   <a href="https://github.com/Divyamk054">
