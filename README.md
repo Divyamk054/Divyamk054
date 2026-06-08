@@ -116,6 +116,12 @@ ________________________________________________________________________________
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyamk054&theme=tokyo-night&hide_border=true" />
 </p>
 
+## 📊 Activity Overview
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/Divyamk054?template=classic&isocalendar=1&languages=1&activity=1&community=1&repositories=1&introduction=1&achievements=1&config.timezone=Asia%2FKolkata" />
+</p>
+
 ____________________________________________________________________________________________________________________________________________
 
  📫 Connect With Me  
