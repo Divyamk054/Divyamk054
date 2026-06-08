@@ -22,8 +22,6 @@
 •
 📊 <a href="https://www.kaggle.com/divyamk0124">Kaggle</a>
 
-<br><br>
-<h2 align="center">📊 Development Metrics</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Divyamk054&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
