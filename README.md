@@ -27,9 +27,7 @@
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Divyamk054&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge" />
-
 </div>
-
 
 <p align="center">
   <a href="https://github.com/Divyamk054">
