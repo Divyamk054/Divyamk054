@@ -49,35 +49,7 @@ ________________________________________________________________________________
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,php,java,python,git,github,vscode,postman" />
 </p>
-<h3 align="center">🎨 Frontend</h3>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-<h3 align="center">⚙️ Backend</h3>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
-</p>
-
-<h3 align="center">🗄️ Database</h3>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-
-<h3 align="center">💻 Languages</h3>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,javascript" />
-</p>
-
-<h3 align="center">🔧 Tools</h3>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
-</p>
 ___________________________________________________________________________________________________________________________________________
  🚀 Projects  
 
