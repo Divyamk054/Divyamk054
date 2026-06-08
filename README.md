@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Divyamk054/Divyamk054/main/DIVYA.MK.png" width="100%" alt="Divya Banner">
 </p>
-</p>
 <div align="center">
 
 <img src="https://img.shields.io/badge/FULL_STACK_DEVELOPER-00E5FF?style=for-the-badge" />
