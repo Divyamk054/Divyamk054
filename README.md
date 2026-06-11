@@ -59,7 +59,7 @@ ________________________________________________________________________________
  🎓 Education
 | 🏛 Institute | 📚 Degree | 📍 Location |
 |-------------|-----------|-------------|
-| HKS International School | Secondary Education | Bengaluru |
+| HKS International School | Secondary Education | Hassan |
 | Presidency university  | B.E Computer Science Engineering (Core) | Bengaluru |
 
 _____________________________________________________________________________________________________________________________________________
