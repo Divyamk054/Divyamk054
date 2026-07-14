@@ -1,6 +1,6 @@
 
 
-                                               <center>👩‍💻 DIVYA M.K</center>
+                                                   👩‍💻 DIVYA M.K
 ---
 
 ### Designing, Developing & Deploying Modern Web Applications
