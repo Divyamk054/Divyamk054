@@ -1,13 +1,4 @@
-<p align="center">
-<p align="center">
-<img src="https://raw.githubusercontent.com/Divyamk054/Divyamk054/main/banner.png" width="100%">
-</p>
-<div align="center">
- 
-<img src="https://img.shields.io/badge/FULL_STACK_DEVELOPER-00E5FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MERN_STACK-00E5FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI_ENTHUSIAST-00E5FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/HACKATHON_BUILDER-00E5FF?style=for-the-badge" />
+
 
 # 👩‍💻 DIVYA M.K
 ---
