@@ -154,7 +154,7 @@ def render(theme_name, colors, stats, ist_now):
     .ttl  {{ fill:{colors['muted']}; font-size:12px; }}
     .row  {{ opacity:1; animation: fade .35s ease backwards; }}
     @keyframes fade {{ from {{ opacity:0; transform:translateY(3px); }}
-                       to   {{ opacity:1; transform:translateY(0); }} }}
+                    to   {{ opacity:1; transform:translateY(0); }} }}
     .cur  {{ fill:{colors['prompt']}; animation: blink 1s steps(1) infinite; }}
     @keyframes blink {{ 50% {{ opacity:0; }} }}
     .artline {{ opacity:1; animation: fade .3s ease backwards; }}
@@ -182,7 +182,7 @@ def render(theme_name, colors, stats, ist_now):
         f'<text x="{ART_X}" y="66" class="row" style="animation-delay:.05s">'
         f'<tspan class="key">➜</tspan>'
         f'<tspan class="acc" dx="8">~</tspan>'
-        f'<tspan class="val" dx="8">neofetch --profile</tspan></text>'
+        f'<tspan class="val" dx="8">~ fastfetch</tspan></text>'
     )
 
     # ascii art
