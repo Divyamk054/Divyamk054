@@ -31,12 +31,6 @@ ________________________________________________________________________________
   <img alt="GitHub Profile" src="dark.svg">
 </picture>
 
-<picture>
-
-  <source media="(prefers-color-scheme: light)" srcset="light.svg">
-  <img alt="GitHub Profile" src="light.svg">
-</picture>
-_____________________________________________________________________________________________________________________________________________________
 
    👩‍💻 About Me
 
