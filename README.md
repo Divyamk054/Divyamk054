@@ -34,6 +34,14 @@
 <img src="https://komarev.com/ghpvc/?username=Divyamk054&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge" />
 </div>
 _____________________________________________________________________________________________________________________________________________________
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img alt="GitHub Profile" src="dark.svg">
+</picture>
+_____________________________________________________________________________________________________________________________________________________
+
    👩‍💻 About Me
 
 <img align="right" width="350" src="https://raw.githubusercontent.com/Divyamk054/Divyamk054/refs/heads/main/Girl%20developer.png" alt="Girl Developer">
